@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-import "../header/header.scss";
+import "../header/Header.scss";
 
 export function Header(){
     return(
